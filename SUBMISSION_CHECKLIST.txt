@@ -1,0 +1,12 @@
+BEFORE SUBMISSION
+1. Replace the blank student/institution fields in PROJECT_REPORT.docx.
+2. Run: python src/main.py
+3. Confirm the program runs without errors.
+4. Create a PUBLIC GitHub repository.
+5. Upload all project files and folders.
+6. Confirm README.md is at repository root.
+7. Submit only the repository root URL, e.g.:
+   https://github.com/YOUR_USERNAME/student-performance-prediction
+8. Do NOT submit /tree/main/ or /blob/main/ URLs.
+9. Verify the public repository in an incognito/private browser window.
+10. Read the course report format and adjust the report if your instructor requires a specific template.
